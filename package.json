@@ -1,0 +1,11 @@
+{
+  "name": "sanskrit-pyq-practice",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "nodemailer": "^7.0.7"
+  }
+}
